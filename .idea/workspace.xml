@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cbe156e-1667-4408-89df-6b363f6e61b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="2cbe156e-1667-4408-89df-6b363f6e61b9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +96,7 @@
       <workItem from="1618932615150" duration="2597000" />
       <workItem from="1618935243846" duration="2460000" />
       <workItem from="1618997409710" duration="6604000" />
-      <workItem from="1619086283741" duration="3036000" />
+      <workItem from="1619086283741" duration="3757000" />
     </task>
     <servers />
   </component>
