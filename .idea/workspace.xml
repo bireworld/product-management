@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cbe156e-1667-4408-89df-6b363f6e61b9" name="Default Changelist" comment="" />
+    <list default="true" id="2cbe156e-1667-4408-89df-6b363f6e61b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/productManagement/src/labs/pm/data/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productManagement/src/labs/pm/app/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/productManagement/src/labs/pm/app/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/productManagement/src/labs/pm/data/Rating.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +46,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -55,26 +64,13 @@
   <component name="RunManager">
     <configuration name="Shop" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="labs.pm.app.Shop" />
-      <module name="productManagement" />
+      <module name="product-management" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="labs.pm.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,6 +93,7 @@
       <workItem from="1618935243846" duration="2460000" />
       <workItem from="1618997409710" duration="6604000" />
       <workItem from="1619086283741" duration="3757000" />
+      <workItem from="1619163664849" duration="606000" />
     </task>
     <servers />
   </component>
