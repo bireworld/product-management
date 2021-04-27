@@ -8,7 +8,8 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.FormatStyle;
 import java.util.Locale;
 import java.util.ResourceBundle;
-//import labs.pm.data.Product;
+//import static java.time.format.FormatStyle.SHORT;
+import labs.pm.data.Product;
 
 public class ProductManager {
     private Locale locale;
@@ -37,7 +38,7 @@ public class ProductManager {
     }
     public Product reviewProduct(Product product, Rating rating, String comments){
          review = new Review(rating, comments);
-         this.product = product.applyRating(rating);
+         //this.product = product.applyRating(rating);
          return this.product;
     }
     public void printProductReport(){
